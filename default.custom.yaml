@@ -12,7 +12,7 @@ patch:
     - {schema: terra_pinyin} # 地球拼音-薄荷定制
     - {schema: wubi98_mint} # 五笔98-薄荷简版
   "switcher/hotkeys":
-    - "Control+grave"
+    - "F4"
   "switcher/save_options":
     - full_shape
     - ascii_punct

@@ -1,0 +1,11 @@
+__build_info:
+  rime_version: 1.9.0
+  timestamps:
+    ibus_rime: 1611525213
+    ibus_rime.custom: 1703972845
+config_version: 1.0
+style:
+  cursor_type: select
+  horizontal: true
+  inline_preedit: false
+  preedit_style: composition

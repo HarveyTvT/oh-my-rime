@@ -1,0 +1,6 @@
+patch:
+  style:
+    cursor_type: select
+    horizontal: true
+    inline_preedit: false
+    preedit_style: composition
