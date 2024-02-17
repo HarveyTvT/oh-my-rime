@@ -7,3 +7,9 @@ code_length_limit_processor = require("code_limit")
 reduce_english_filter = require("reduce_english_filter")
 -- 错音错字提示
 corrector = require("corrector")
+-- 中国农历
+Chinese_lunar_calendar = require("chineseLunarCalendar")
+-- 以词定字（默认为「[」和「]」；在 key_binder 下配置快捷键
+select_character = require("select_character")
+-- 自动大写英文词汇
+autocap_filter = require("autocap_filter")
